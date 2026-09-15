@@ -1,4 +1,4 @@
-#Day 5 - Condditionals and Booleans 
+#Day 5 - Conditionals and Booleans 
 
 name = input("Enter your name: ").lower().strip()
 
