@@ -1,0 +1,8 @@
+#Week 2 - Day 2 Adding gitignore file to ignore virtual environment and other unnecessary files
+
+env/ #this hides the virtual environment folder
+__pycache__/ #this hides the __pycache__ folder that contains compiled Python files
+.env #this hides the .env file that contains sensitive information like API keys
+*.pyc #this hide the .pyc files that are generated when Python code is run
+.DS_Store #this hides the .DS_Store file that is created by macOS to store custom attributes of a folder
+
