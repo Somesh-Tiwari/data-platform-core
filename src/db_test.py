@@ -1,5 +1,5 @@
 # src/db_test.py
-
+# this is just a test file to check if the connection to the database is working
 import psycopg2
 
 try:
